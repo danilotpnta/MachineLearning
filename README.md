@@ -1,6 +1,8 @@
 
 # ML Project February 2023
 
+#### [Update: 20 May 2023] Project Submitted. Documentation will follow soon
+
 This repository contains the code for the final evaluation of the course "[Machine Learning: Project](https://onderwijsaanbod.kuleuven.be/syllabi/e/H0T25AE.htm)" (KU Leuven, Faculty of Engineering, Department of Computer Science, [DTAI Section](https://dtai.cs.kuleuven.be)).
 
 
@@ -12,3 +14,5 @@ This repository contains the code for the final evaluation of the course "[Machi
 - `tournament.py`: Code that is used on the departmental server to play the tournament
 - `websocket_player.py`: Code to wrap your agent to play interactively using the web-based interface
 
+<img src="https://raw.githubusercontent.com/danilotpnta/MachineLearning/master/images/all_Quiver_Stream_plots.png" alt="8" width="700" />
+<img src="https://raw.githubusercontent.com/danilotpnta/MachineLearning/master/fig/comparison_of_models_2.png" alt="8" width="600" />
